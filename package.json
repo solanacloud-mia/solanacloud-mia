@@ -1,0 +1,11 @@
+{
+  "name": "solanacloud-mia",
+  "version": "1.0.0",
+  "description": "Project created by Mia",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "dependencies": {}
+}
